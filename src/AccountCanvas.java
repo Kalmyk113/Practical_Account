@@ -67,6 +67,6 @@ public class AccountCanvas extends GCanvas {
         add(bye, TEXT_X_OFFSET, TEXT_HEIGHT);
     }
 
-    //public void reset() {
+    public void reset() {
     }
 }
